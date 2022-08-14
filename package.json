@@ -1,5 +1,5 @@
 {
-  "name": "@composiv/liveui-core",
+  "name": "@eclipse-muto/liveui-core",
   "version": "0.1.0",
   "description": "LiveUI Core Library for managing remote components as microservices.",
   "main": "./src/index.js",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/composiv/liveui-core"
+    "url": "https://github.com/eclipse-muto/liveui-core"
   },
   "keywords": [
     "composiv",
